@@ -1,6 +1,5 @@
 import React from 'react';
-import './BookTable.css';
-
+import './BookTable.css'
 // The BookList component is responsible for rendering the array of book objects
 // stored in the App component's state.
 // How can you give BookTable access to that books array?
