@@ -1,0 +1,19 @@
+.form {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	gap: 10px;
+}
+
+.form button {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	background-color: green;
+	color: aliceblue;
+}
+
+.form button:hover {
+	cursor: pointer;
+	background-color: rgba(0, 128, 0, 0.9);
+}
